@@ -1,6 +1,6 @@
 # GoodNews
 
-GoodNews is an app which the users can get the current news. It works with news API.
+GoodNews is an app which the users can get the current news. It works with news API and designed with MVVM design pattern.
 
 UITableView
 
