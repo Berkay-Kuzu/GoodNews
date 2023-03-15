@@ -1,5 +1,7 @@
 # GoodNews
 
+GoodNews is an app which the users can get the current news. It works with news API.
+
 UITableView
 
 UITableViewCell
