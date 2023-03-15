@@ -6,7 +6,7 @@ UITableView
 
 UITableViewCell
 
-NewsAPI
+News API
 
 MVVM Design Pattern
 
